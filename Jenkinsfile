@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         MAVEN_INSTALLATION = 'maven-installation'
-        MAVEN_SETTINGS_CONFIG = 'maven-settings.xml'
+        MAVEN_SETTINGS_CONFIG = '2ec0c8bd-a1ff-4e2d-8be0-d069acf582c8'
     }
 
     stages {
